@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/uework",
+  "password": false,
+  "pid": 1177,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "ff3a05f9d40e78fc07d4665383b8a93053efc2f96555400d",
+  "url": "http://0.0.0.0:8888/"
+}
